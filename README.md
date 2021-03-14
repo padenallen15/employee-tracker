@@ -6,6 +6,7 @@
   * Type `npm install --save mysql2` Hit enter
   * Type `npm install inquirer` Hit enter
   * Type `npm install console.table --save` Hit enter
+  * Type `npm install node` Hit enter
 
 # Instructions
   * Initialize the MySQL command line: `mysql -u root -p` and your MySQL password.
@@ -15,3 +16,23 @@
   * Open the [server.js] file and do the following:
 
     * Update the `user` and `password` with your MySQL username and password.
+
+  * Type `npm start` in the terminal to initiate the program.
+
+# Built With
+* MySQL2
+* JavaScript
+* Node.js
+* Inquirer
+* Console.Table
+
+## Video Link
+https://drive.google.com/file/d/1LxW8YjHajrbuASa2A2KCexe4KEaAjald/view
+
+## Example Screenshot
+![Alt text](./imgages/demo1.png)
+![Alt text](./imgages/demo2.png)
+![Alt text](./imgages/demo3.png)
+
+## Contribution
+Created with ❤️ by Paden Allen
