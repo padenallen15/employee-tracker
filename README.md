@@ -30,9 +30,9 @@
 https://drive.google.com/file/d/1LxW8YjHajrbuASa2A2KCexe4KEaAjald/view
 
 ## Example Screenshot
-![Alt text](./imgages/demo1.png)
-![Alt text](./imgages/demo2.png)
-![Alt text](./imgages/demo3.png)
+![Alt text](./images/demo1.png)
+![Alt text](./images/demo2.png)
+![Alt text](./images/demo3.png)
 
 ## Contribution
 Created with ❤️ by Paden Allen
